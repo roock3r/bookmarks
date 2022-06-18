@@ -1,0 +1,9 @@
+asgiref==3.5.0
+Django==3.2.12
+Pillow==9.0.1
+python-dotenv==0.20.0
+pytz==2021.3
+redis==2.10.6
+sorl-thumbnail==12.8.0
+sqlparse==0.4.2
+typing-extensions==4.1.1
